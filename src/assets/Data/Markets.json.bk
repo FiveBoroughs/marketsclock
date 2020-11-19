@@ -1,0 +1,557 @@
+{
+    "markets": [
+        {
+            "Code": "nzx",
+            "Title": "New Zealand Stock Exchange",
+            "CountryCode": "NZ",
+            "TimeZone": "Pacific/Auckland",
+            "Session": [
+                {
+                    "Title": "Pre open",
+                    "StartTime": "09:00",
+                    "EndTime": "10:00",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "10:00",
+                    "EndTime": "16:45",
+                    "Style": "2"
+                },
+                {
+                    "Title": "After hours",
+                    "StartTime": "16:45",
+                    "EndTime": "17:00",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Closed",
+                    "StartTime": "17:45",
+                    "EndTime": "24:00",
+                    "Style": "0"
+                }
+            ],
+            "Days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "Holidays": []
+        },
+        {
+            "Code": "nyse",
+            "Title": "New York Stock Exchange",
+            "CountryCode": "US",
+            "TimeZone": "America/New_York",
+            "Session": [
+                {
+                    "Title": "Pre open",
+                    "StartTime": "06:30",
+                    "EndTime": "09:30",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "09:30",
+                    "EndTime": "16:00",
+                    "Style": "2"
+                },
+                {
+                    "Title": "After hours",
+                    "StartTime": "16:00",
+                    "EndTime": "20:00",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Closed",
+                    "StartTime": "20:00",
+                    "EndTime": "24:00",
+                    "Style": "0"
+                }
+            ],
+            "Days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "Holidays": []
+        },
+        {
+            "Code": "nasdaq",
+            "Title": "NASDAQ Stock Exchange",
+            "CountryCode": "US",
+            "TimeZone": "America/New_York",
+            "Session": [
+                {
+                    "Title": "Pre pre ope,",
+                    "StartTime": "03:30",
+                    "EndTime": "04:00",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Pre open",
+                    "StartTime": "04:00",
+                    "EndTime": "09:30",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "09:30",
+                    "EndTime": "16:00",
+                    "Style": "2"
+                },
+                {
+                    "Title": "After hours",
+                    "StartTime": "16:00",
+                    "EndTime": "20:00",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Closed",
+                    "StartTime": "20:00",
+                    "EndTime": "24:00",
+                    "Style": "0"
+                }
+            ],
+            "Days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "Holidays": []
+        },
+        {
+            "Code": "lse",
+            "Title": "London Stock Exchange",
+            "CountryCode": "GB",
+            "TimeZone": "Europe/London",
+            "Session": [
+                {
+                    "Title": "Pre open",
+                    "StartTime": "07:00",
+                    "EndTime": "08:00",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "08:00",
+                    "EndTime": "16:35",
+                    "Style": "2"
+                },
+                {
+                    "Title": "After hours",
+                    "StartTime": "16:40",
+                    "EndTime": "17:15",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Closed",
+                    "StartTime": "17:15",
+                    "EndTime": "24:00",
+                    "Style": "0"
+                }
+            ],
+            "Days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "Holidays": []
+        },
+        {
+            "Code": "jpx",
+            "Title": "Tokyo Stock Exchange",
+            "CountryCode": "JP",
+            "TimeZone": "Asia/Tokyo",
+            "Session": [
+                {
+                    "Title": "Open",
+                    "StartTime": "09:00",
+                    "EndTime": "11:30",
+                    "Style": "2"
+                },
+                {
+                    "Title": "Lunch",
+                    "StartTime": "11:30",
+                    "EndTime": "12:30",
+                    "Style": "0"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "12:30",
+                    "EndTime": "15:00",
+                    "Style": "2"
+                },
+                {
+                    "Title": "Closed",
+                    "StartTime": "15:00",
+                    "Style": "0"
+                }
+            ],
+            "Days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "Holidays": []
+        },
+        {
+            "Code": "sse",
+            "Title": "Shanghai Stock Exchange",
+            "CountryCode": "CN",
+            "TimeZone": "Asia/Shanghai",
+            "Session": [
+                {
+                    "Title": "Pre open",
+                    "StartTime": "09:15",
+                    "EndTime": "09:25",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "09:30",
+                    "EndTime": "11:30",
+                    "Style": "2"
+                },
+                {
+                    "Title": "Lunch",
+                    "StartTime": "11:30",
+                    "EndTime": "13:00",
+                    "Style": "0"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "13:00",
+                    "EndTime": "15:00",
+                    "Style": "2"
+                },
+                {
+                    "Title": "Closed",
+                    "StartTime": "15:00",
+                    "EndTime": "24:00",
+                    "Style": "0"
+                }
+            ],
+            "Days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "Holidays": []
+        },
+        {
+            "Code": "hkex",
+            "Title": "Hong Kong Stock Exchange",
+            "CountryCode": "HK",
+            "TimeZone": "Asia/Hong_Kong",
+            "Session": [
+                {
+                    "Title": "Pre open",
+                    "StartTime": "09:00",
+                    "EndTime": "09:30",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "09:30",
+                    "EndTime": "12:00",
+                    "Style": "2"
+                },
+                {
+                    "Title": "Lunch",
+                    "StartTime": "12:00",
+                    "EndTime": "13:00",
+                    "Style": "0"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "13:00",
+                    "EndTime": "16:00",
+                    "Style": "2"
+                },
+                {
+                    "Title": "After hours",
+                    "StartTime": "16:00",
+                    "EndTime": "16:10",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Closed",
+                    "StartTime": "16:10",
+                    "EndTime": "24:00",
+                    "Style": "0"
+                }
+            ],
+            "Days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "Holidays": []
+        },
+        {
+            "Code": "Euronext",
+            "Title": "Euronext Amsterdam Stock Exchange",
+            "CountryCode": "NL",
+            "TimeZone": "Europe/Amsterdam",
+            "Session": [
+                {
+                    "Title": "Open",
+                    "StartTime": "09:00",
+                    "EndTime": "17:40",
+                    "Style": "2"
+                },
+                {
+                    "Title": "Closed",
+                    "StartTime": "17:40",
+                    "EndTime": "24:00",
+                    "Style": "0"
+                }
+            ],
+            "Days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "Holidays": []
+        },
+        {
+            "Code": "SZSE",
+            "Title": "Shenzhen Stock Exchange",
+            "CountryCode": "CN",
+            "TimeZone": "Asia/Shanghai",
+            "Session": [
+                {
+                    "Title": "Pre open",
+                    "StartTime": "09:15",
+                    "EndTime": "9:25",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "09:30",
+                    "EndTime": "11:30",
+                    "Style": "2"
+                },
+                {
+                    "Title": "Lunch",
+                    "StartTime": "11:30",
+                    "EndTime": "13:00",
+                    "Style": "0"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "13:00",
+                    "EndTime": "15:00",
+                    "Style": "2"
+                },
+                {
+                    "Title": "Closed",
+                    "StartTime": "15:00",
+                    "EndTime": "24:00",
+                    "Style": "0"
+                }
+            ],
+            "Days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "Holidays": []
+        },
+        {
+            "Code": "TSX",
+            "Title": "Toronto Stock Exchange",
+            "CountryCode": "CA",
+            "TimeZone": "America/Toronto",
+            "Session": [
+                {
+                    "Title": "Pre open",
+                    "StartTime": "07:00",
+                    "EndTime": "9:25",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "09:30",
+                    "EndTime": "11:30",
+                    "Style": "2"
+                },
+                {
+                    "Title": "Lunch",
+                    "StartTime": "11:30",
+                    "EndTime": "13:00",
+                    "Style": "0"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "13:00",
+                    "EndTime": "15:00",
+                    "Style": "2"
+                },
+                {
+                    "Title": "Closed",
+                    "StartTime": "15:00",
+                    "EndTime": "24:00",
+                    "Style": "0"
+                }
+            ],
+            "Days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "Holidays": []
+        },
+        {
+            "Code": "BSE",
+            "Title": "Bombay Stock Exchange",
+            "CountryCode": "IN",
+            "TimeZone": "Asia/Kolkata",
+            "Session": [
+                {
+                    "Title": "Pre open",
+                    "StartTime": "09:00",
+                    "EndTime": "9:15",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "09:15",
+                    "EndTime": "15:40",
+                    "Style": "2"
+                },
+                {
+                    "Title": "After hours",
+                    "StartTime": "15:40",
+                    "EndTime": "16:00",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Closed",
+                    "StartTime": "16:00",
+                    "EndTime": "24:00",
+                    "Style": "0"
+                }
+            ],
+            "Days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "Holidays": []
+        },
+        {
+            "Code": "CME",
+            "Title": "CME Group",
+            "CountryCode": "US",
+            "TimeZone": "America/Chicago",
+            "Session": [
+                {
+                    "Title": "Open",
+                    "StartTime": "00:00",
+                    "EndTime": "16:00",
+                    "Style": "2"
+                },
+                {
+                    "Title": "Close",
+                    "StartTime": "16:00",
+                    "EndTime": "17:00",
+                    "Style": "0"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "17:00",
+                    "EndTime": "24:00",
+                    "Style": "2"
+                }
+            ],
+            "Days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Holidays": []
+        },
+        {
+            "Code": "bitmex",
+            "Title": "Bitmex Perpetual swap",
+            "CountryCode": "BTC",
+            "TimeZone": "UTC",
+            "Session": [
+                {
+                    "Title": "Open",
+                    "StartTime": "00:00",
+                    "EndTime": "14:00",
+                    "Style": "2"
+                },
+                {
+                    "Title": "funding",
+                    "StartTime": "14:0",
+                    "EndTime": "15:00",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "15:00",
+                    "EndTime": "16:00",
+                    "Style": "2"
+                },
+                {
+                    "Title": "funding",
+                    "StartTime": "16:00",
+                    "EndTime": "17:00",
+                    "Style": "1"
+                },
+                {
+                    "Title": "Open",
+                    "StartTime": "17:00",
+                    "EndTime": "18:00",
+                    "Style": "2"
+                },
+                {
+                    "Title": "funding",
+                    "StartTime": "18:00",
+                    "EndTime": "19:00",
+                    "Style": "1"
+                }
+            ],
+            "Days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "Holidays": []
+        }
+    ]
+}

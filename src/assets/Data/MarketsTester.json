@@ -1,0 +1,103 @@
+{
+    "markets": [
+        {
+            "Code": "nyse",
+            "Title": "New York Stock Exchange",
+            "CountryCode": "us",
+            "Logo": "https://www.tradinghours.com/img/exchanges/xnyse.png.pagespeed.ic.SpfcIAtPaa.png",
+            "TimeZone": "America/New_York",
+            "Sessions": [
+                {
+                    "Title": "Pre Open",
+                    "Days": [
+                        "Sunday"
+                    ],
+                    "Style": 1,
+                    "StartTime": "18:30",
+                    "EndTime": "18:31"
+                },
+                {
+                    "Title": "Propen",
+                    "Days": [
+                        "Sunday"
+                    ],
+                    "Style": 1,
+                    "StartTime": "18:31",
+                    "EndTime": "18:32"
+                },
+                {
+                    "Title": "sdcs Open",
+                    "Days": [
+                        "Sunday"
+                    ],
+                    "Style": 1,
+                    "StartTime": "18:32",
+                    "EndTime": "18:33"
+                },
+                {
+                    "Title": "sdcsdc",
+                    "Days": [
+                        "Sunday"
+                    ],
+                    "Style": 1,
+                    "StartTime": "18:33",
+                    "EndTime": "18:34"
+                },
+                {
+                    "Title": "Pre sdcsd",
+                    "Days": [
+                        "Sunday"
+                    ],
+                    "Style": 1,
+                    "StartTime": "18:34",
+                    "EndTime": "18:35"
+                },
+                {
+                    "Title": "sdcsdcsaedz",
+                    "Days": [
+                        "Sunday"
+                    ],
+                    "Style": 1,
+                    "StartTime": "18:35",
+                    "EndTime": "18:36"
+                },
+                {
+                    "Title": "sdcsdcsaedz",
+                    "Days": [
+                        "Sunday"
+                    ],
+                    "Style": 1,
+                    "StartTime": "18:36",
+                    "EndTime": "18:37"
+                },
+                {
+                    "Title": "Propesqdfsdfn",
+                    "Days": [
+                        "Sunday"
+                    ],
+                    "Style": 1,
+                    "StartTime": "18:37",
+                    "EndTime": "18:38"
+                },
+                {
+                    "Title": "Pre Opdghtyen",
+                    "Days": [
+                        "Sunday"
+                    ],
+                    "Style": 1,
+                    "StartTime": "18:38",
+                    "EndTime": "18:39"
+                },
+                {
+                    "Title": "rty",
+                    "Days": [
+                        "Sunday"
+                    ],
+                    "Style": 1,
+                    "StartTime": "18:39",
+                    "EndTime": "19:20"
+                }
+            ]
+        }
+    ]
+}

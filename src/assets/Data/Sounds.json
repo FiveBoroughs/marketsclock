@@ -1,0 +1,34 @@
+{
+    "sounds": [
+        {
+            "file": "anxious.mp3"
+        },
+        {
+            "file": "losing-patience.mp3"
+        },
+        {
+            "file": "out-of-bounds.mp3"
+        },
+        {
+            "file": "quiet-knock.mp3"
+        },
+        {
+            "file": "time-is-now.mp3"
+        },
+        {
+            "file": "unexpected.mp3"
+        },
+        {
+            "file": "boxing-bell.mp3"
+        },
+        {
+            "file": "market-bell.mp3"
+        },
+        {
+            "file": "nyse-bell.mp3"
+        },
+        {
+            "file": "zen-gong.mp3"
+        }
+    ]
+}

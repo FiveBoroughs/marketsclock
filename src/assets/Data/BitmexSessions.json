@@ -1,0 +1,42 @@
+{
+    "Title": "Open",
+    "StartTime": "00:00",
+    "EndTime": "04:00",
+    "Style": "2"
+},
+{
+    "Title": "Funding",
+    "StartTime": "04:00",
+    "EndTime": "04:01",
+    "Style": "1"
+},
+{
+    "Title": "Open",
+    "StartTime": "04:01",
+    "EndTime": "12:00",
+    "Style": "2"
+},
+{
+    "Title": "Funding",
+    "StartTime": "12:00",
+    "EndTime": "12:01",
+    "Style": "1"
+},
+{
+    "Title": "Open",
+    "StartTime": "12:01",
+    "EndTime": "20:00",
+    "Style": "2"
+},
+{
+    "Title": "Funding",
+    "StartTime": "20:00",
+    "EndTime": "20:01",
+    "Style": "1"
+},
+{
+    "Title": "Open",
+    "StartTime": "20:01",
+    "EndTime": "24:00",
+    "Style": "2"
+},
